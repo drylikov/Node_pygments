@@ -1,4 +1,4 @@
-# Pygments
+# Pygments.
 
   python pygmentize(1)
 
