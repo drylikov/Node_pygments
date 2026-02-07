@@ -4,7 +4,7 @@
 
 ## Installation
 
-    $ npm install visionmedia/node-pygments
+    $ npm install drylikov/node-pygments
 
 ## Example
 
@@ -27,7 +27,6 @@ highlight(str, function(err, html){
 
 })
 ```
-
 
 
 
