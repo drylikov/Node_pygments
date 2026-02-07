@@ -1,0 +1,17 @@
+
+{
+  "name": "pygments",
+  "version": "1.0.0",
+  "description": "python pygmentize(1)",
+  "keywords": [],
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "repository": { "type": "git", "url": "" },
+  "dependencies": {
+    "debug": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
