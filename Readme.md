@@ -4,7 +4,7 @@
 
 ## Installation
 
-    $ npm install drylikov/node-pygments
+    $ npm install drylikov/node_pygments
 
 ## Example
 
