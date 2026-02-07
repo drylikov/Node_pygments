@@ -1,4 +1,3 @@
-
 # pygments
 
   python pygmentize(1)
@@ -28,7 +27,6 @@ highlight(str, function(err, html){
 
 })
 ```
-
 
 
 
